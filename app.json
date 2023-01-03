@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "tesla_app",
+    "slug": "tesla_app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "tesla_app"
+}
